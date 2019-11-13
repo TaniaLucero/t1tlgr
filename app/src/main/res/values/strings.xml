@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">t1tlgr</string>
+    <string name="imagen">imagen</string>
+    <string name="tec1">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO</string>
+    <string name="nom">GUTIERREZ RANGEL TANIA LUCERO</string>
+    <string name="grupo">7S11</string>
+    <string name="operaciones">OPERACIONES...</string>
+    <string name="op1">1. SUMA</string>
+    <string name="op2">2. RESTA</string>
+    <string name="op3">3. DIVISION</string>
+    <string name="op4">4. MULTIPLICACIÓN</string>
+    <string name="op">¿QUE OPCION DESEA?</string>
+    <string name="opcion">INGRESA NUMERO DE OPCION</string>
+    <string name="lblenviar">ENVIAR</string>
+    <string name="suma">SUMA</string>
+    <string name="v1">INGRESE EL PRIMER VALOR</string>
+    <string name="v2">INGRESE EL SEGUNDO VALOR</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="resta">RESTA</string>
+    <string name="division">DIVISION</string>
+    <string name="multi">MULTIPLICACION</string>
+</resources>
